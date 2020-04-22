@@ -1,5 +1,5 @@
 ice cuve added
 new line added
 another line added
-Updated cold txt file on another branch for testing
+Updated cold txt file on another branch for testing.
 
